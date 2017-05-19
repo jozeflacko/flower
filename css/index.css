@@ -7,20 +7,22 @@ body {
 	overflow:hidden;
 	box-shadow: inset 0px 5px 120px #90b9dc;
 }
-
 .container {
 	
 }
-.container {
-	
+.container::after {
+	margin:auto;
+	content:"(>‿◠)✌";
+	position:relative;
+	left:5px;
+	font-size:30px;
+		
 }
-
 .container .jl-whole {
 	position:relative;
 	margin: auto;
 	width: 200px;
 }
-
 .container .jl-whole .jl-head {
 	width:200px;
 	height:200px;
@@ -68,7 +70,6 @@ body {
         transform:rotate(360deg);
     }
 }
-
 .container .jl-whole .jl-head .jl-petal {
 	background:red;
 	display:inline-block;
@@ -208,6 +209,13 @@ body {
 	-ms-transform: rotate(25deg); /* IE 9 */
 	-webkit-transform: rotate(25deg); /* Chrome, Safari, Opera */
 	transform: rotate(25deg);
+
+	background: 
+		linear-gradient(63deg, green 45%, transparent 20%) 10px 0, 
+		linear-gradient(63deg, transparent 90%, green 75%), 
+		linear-gradient(63deg, transparent 20%, green 45%, green 20%, transparent 20%), 
+		#005d00;
+		background-size: 15px 20px;
 }
 
 .container .jl-whole .jl-body .jl-leave.jl-leave-1 {
