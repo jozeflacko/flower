@@ -10,9 +10,19 @@ body {
 .container {
 	
 }
+.container::before {
+	margin:auto;
+	content:">‿◠";
+	position:relative;
+	left: 3px;
+	top: 123px;
+	z-index:100;
+	font-size:30px;
+	color: #4e4e4e;
+}
 .container::after {
 	margin:auto;
-	content:"(>‿◠)✌";
+	content:"дашенька";
 	position:relative;
 	left:5px;
 	font-size:30px;
