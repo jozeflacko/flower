@@ -3,8 +3,8 @@ body {
 	width:100%;
 	padding-top:100px;
 	height:100%;
-	background:#e9f5ff;
 	overflow:hidden;
+	background:#e9f5ff;	
 	box-shadow: inset 0px 5px 120px #90b9dc;
 }
 .container {
