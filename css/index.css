@@ -10,17 +10,6 @@ body {
 .container {
 	
 }
-.container::before {
-	margin:auto;
-	content:">‿◠";
-	font-family: Arial, Helvetica, sans-serif;
-	position:relative;
-	left: 3px;
-	top: 123px;
-	z-index:100;
-	font-size:30px;
-	color: #4e4e4e;
-}
 .container::after {
 	margin:auto;
 	content:"дашенька";
@@ -34,6 +23,54 @@ body {
 	position:relative;
 	margin: auto;
 	width: 200px;
+}
+.container .jl-whole .jl-face{
+	position:absolute;
+	width:60px;
+	height:30px;	
+	white-space:nowrap;
+	z-index:10;
+	top:92px;
+	left:69px;
+}
+.container .jl-whole .jl-face .jl-left-eye {
+	display:inline-block;
+}
+.container .jl-whole .jl-face .jl-left-eye:after{
+	position:absolute;	
+	top:0px;
+	left:0px;
+	content:">";
+	line-height:22px;	
+	font-size:22px;
+	color:black;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.container .jl-whole .jl-face .jl-mouth {
+	position:absolute;	
+	bottom:0px;
+	left:15px;
+	width:30px;
+	height:15px;
+	border-radius:100%;
+	display:inline-block;	
+	border:3px solid black;
+	border-top:none;
+	border-left:none;
+	border-right:none;
+}
+.container .jl-whole .jl-face .jl-right-eye{
+	position:absolute;	
+	top:5px;
+	right:0px;
+	width:15px;
+	height:15px;
+	border-radius:100%;
+	display:inline-block;	
+	border:3px solid black;
+	border-bottom:none;
+	border-left:none;
+	border-right:none;
 }
 .container .jl-whole .jl-head {
 	width:200px;
