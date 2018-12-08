@@ -8,6 +8,6 @@
 </h3>
 <p style='max-width:360px;'>
 	<h3>Screenshot</h3>
-	<img src="https://rawgit.com/opam/CssPicture/master/img/index.png" alt="Smiley flower">
+	<img src="https://cdn.jsdelivr.net/gh/opam/CssPicture/img/index.png" alt="Smiley flower">
 </p> 
 
