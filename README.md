@@ -1,13 +1,10 @@
 # Flower painted with Css
 
-The possibilities of drawing in css do not stop astonishing. That's why I decided to draw a small picture of the flower
+The possibilities of drawing in css do not stop me astonishing. That's why I decided to draw a small picture of the flower. This small animation is dedicated to my wife
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-
-### You can try the template out <a href='https://rawgit.com/opam/CssPicture/master/index.html'>here!</a>
+You can try it out <a href='https://rawgit.com/opam/CssPicture/master/index.html'>here!</a>
 
 ### Screenshot
 <p style='max-width:360px;'>
@@ -20,4 +17,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Acknowledgments
 
-Inspiration to draw a picture in css came from the presentation of **Eva Lettner** at the WeAreDevelopers conference 2017 - [Eva Lettner](https://www.youtube.com/watch?v=k8JD1A9uVaM)
+Inspiration to draw a picture in css came from the presentation of **Eva Lettner** at the WeAreDevelopers conference 2017 
+
+* link to her presentation: [Eva Lettner](https://www.youtube.com/watch?v=k8JD1A9uVaM)
