@@ -1,6 +1,6 @@
-# Flower painted with Css
+# Flower made with Css
 
-The possibilities of drawing in css do not stop me astonishing. That's why I decided to draw a small picture of the flower. This small animation is dedicated to my wife
+The possibilities of drawing in css do not stop me astonishing. That's why I decided to draw a small picture of a flower. This small animation is dedicated to my wife
 
 ## Getting Started
 
