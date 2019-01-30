@@ -10,15 +10,6 @@ body {
 .container {
 	
 }
-.container::after {
-	margin:auto;
-	content:"дашенька";
-	position:relative;
-	left:5px;
-	font-size:30px;
-	text-shadow:1px 1px 4px #8c8c8c;
-		
-}
 .container .jl-whole {
 	position:relative;
 	margin: auto;

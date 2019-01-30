@@ -1,0 +1,27 @@
+{
+  "name": "flower-css",
+  "version": "1.0.0",
+  "description": "The possibilities of drawing in css do not stop me astonishing. That's why I decided to draw a small picture of a flower. This small animation is dedicated to my wife",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opam/flower.git"
+  },
+  "keywords": [
+    "flower",
+    "css",
+    "html"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "author": "Jozef Lacko",
+  "license": "ISC",
+  "bugs": {
+    "url": "flower-css.jozeflacko.com"
+  },
+  "homepage": "https://github.com/opam/flower#readme"
+}
