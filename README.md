@@ -4,7 +4,9 @@ The possibilities of drawing in css do not stop me astonishing. That's why I dec
 
 ## Getting Started
 
-You can try it out <a href='https://rawgit.com/opam/CssPicture/master/index.html'>here!</a>
+You can try it out here: <a href='http://flower-css.jozeflacko.com'>flower-css.jozeflacko.com</a>
+
+* This app is hosted at heroku cloud platform and it can take up to 10 seconds to wake up this page :)
 
 ### Screenshot
 <p style='max-width:360px;'>
