@@ -4,7 +4,7 @@ The possibilities of drawing in css do not stop me astonishing. That's why I dec
 
 ### Screenshot
 <p style='max-width:360px;'>
-	<img src="https://rawgit.com/opam/CssPicture/master/img/index.png" alt="Smiley flower">
+	<img src="https://github.com/jozeflacko/flower/blob/master/img/index.png?raw=true" alt="Smiley flower">
 </p> 
 
 ## Authors
