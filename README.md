@@ -9,7 +9,7 @@ The possibilities of drawing in css do not stop me astonishing. That's why I dec
 
 ## Authors
 
-* **Jozef Lacko** - *Initial work* - [Jozef Lacko](https://www.jozeflacko.com)
+* **Jozef Lacko** - *Initial work* - [Jozef Lacko](https://jozeflacko.github.io)
 
 ## Acknowledgments
 
